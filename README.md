@@ -64,6 +64,8 @@ This project showcases clean OOP architecture and pattern-driven design.
     ├── devices/
     ├── (all source files)
     └── ...
+└── docs/
+    └── Design Patterns Documentation.pdf
 ```
 
 ---
