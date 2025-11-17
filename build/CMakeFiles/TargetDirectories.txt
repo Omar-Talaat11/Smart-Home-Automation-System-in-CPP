@@ -1,0 +1,3 @@
+D:/Advanced CPP Course/Smart_Home_Project/build/CMakeFiles/SmartHome.dir
+D:/Advanced CPP Course/Smart_Home_Project/build/CMakeFiles/edit_cache.dir
+D:/Advanced CPP Course/Smart_Home_Project/build/CMakeFiles/rebuild_cache.dir
