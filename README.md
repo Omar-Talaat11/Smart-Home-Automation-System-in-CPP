@@ -59,11 +59,11 @@ This project showcases clean OOP architecture and pattern-driven design.
 ├── include/
 │   ├── (all header files)
 │   └── ...
-└── src/
-    ├── main.cpp
-    ├── devices/
-    ├── (all source files)
-    └── ...
+├── src/
+│   ├── main.cpp
+│   ├── devices/
+│   ├── (all source files)
+│   └── ...
 └── docs/
     └── Design Patterns Documentation.pdf
 ```
